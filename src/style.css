@@ -103,3 +103,29 @@ main {
   border: 2px solid black;
   box-shadow: 3px 3px black;
 }
+
+.refresh-btn:hover,
+.add-score-btn:hover {
+  box-shadow: 2px 2px black;
+}
+
+@media screen  and (max-width: 768px) {
+  .header {
+    font-size: 2rem;
+    padding: 0 2rem;
+  }
+
+  main {
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 0;
+  }
+
+  .recent-score {
+    width: 100%;
+  }
+
+  .add-score {
+    width: 100%;
+  }
+}
