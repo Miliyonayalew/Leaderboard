@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Leaderboard
-The goal of this educational project is to create a simple Leaderboard app using JavaScript, HTML, and CSS.
+The goal of this educational project is to create a simple Leaderboard app using JavaScript, HTML, CSS and Webpack. This Application consumes data from an API to display scores for a game by sending and receiving data from/to the Leaderboard API.
 
 ## Built With
 - HTML5, CSS3 and JavaScript
