@@ -5,23 +5,32 @@ The goal of this educational project is to create a simple Leaderboard app using
 
 ## Built With
 - HTML5, CSS3 and JavaScript
-- Github and Git
 - Webpack
-- Linter
+- Linters
+- Git and GitHub
+- GitHub Pages
+- GitFlow 
+
+## Website Mockup 📱 💻 🖥️
+![](src/assests//Screenshoot/mock.png)
   
 ## Live Demo 
 
-Not available for now
+Now it is available :smile: [Leaderboard](https://miliyonayalew.github.io/Leaderboard/)
 ## Getting Started
 To get a local copy up run the following steps.
 
-## Install
-- Have NodeJS installed and follow the next steps
+## Prerequisites
+- Node.js
+- Git
+- Web Browser
+- Vscode(optional)
 
-## Usage
-- git clone https://github.com/Miliyonayalew/Leaderboard.git
-- npm i for installing dev dependencies
-- npm run build or npm start to see the project
+## Setup
+- Clone the repository to your local machine using `git clone` https://github.com/Miliyonayalew/Leaderboard.git command.
+- `npm i` to install all the dependencies
+- `npm run` build to build the project
+- `npm start` to start the server
 
 ## Author
 
