@@ -182,8 +182,6 @@ main {
   display: flex;
   align-self: flex-end;
   width: fit-content;
-  padding: 0.5rem;
-  cursor: pointer;
 }
 
 .refresh-btn,
