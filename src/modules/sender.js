@@ -1,4 +1,5 @@
 import fetcher from './fetcher.js';
+import { notifySuccess } from './notify.js';
 
 const sender = async () => {
   const name = document.querySelector('#name').value;
@@ -10,6 +11,7 @@ const sender = async () => {
       'Content-type': 'application/json; charset=UTF-8',
     },
   });
+  notifySuccess();
   fetcher();
 };
 
